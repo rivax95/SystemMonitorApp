@@ -1,0 +1,994 @@
+[
+  {
+    "Timestamp": "2025-04-04T23:17:06.4220053+02:00",
+    "CpuSerial": "CPU-SERIAL-PLACEHOLDER",
+    "MotherboardSerial": "MB-SERIAL-PLACEHOLDER",
+    "GpuSerial": "GPU-SERIAL-PLACEHOLDER",
+    "CpuUsage": "25%",
+    "RamUsage": "4096MB"
+  },
+  {
+    "Timestamp": "2025-04-04T23:17:06.9180984+02:00",
+    "CpuSerial": "CPU-SERIAL-PLACEHOLDER",
+    "MotherboardSerial": "MB-SERIAL-PLACEHOLDER",
+    "GpuSerial": "GPU-SERIAL-PLACEHOLDER",
+    "CpuUsage": "25%",
+    "RamUsage": "4096MB"
+  },
+  {
+    "Timestamp": "2025-04-04T23:17:07.4150616+02:00",
+    "CpuSerial": "CPU-SERIAL-PLACEHOLDER",
+    "MotherboardSerial": "MB-SERIAL-PLACEHOLDER",
+    "GpuSerial": "GPU-SERIAL-PLACEHOLDER",
+    "CpuUsage": "25%",
+    "RamUsage": "4096MB"
+  },
+  {
+    "Timestamp": "2025-04-04T23:17:07.9141237+02:00",
+    "CpuSerial": "CPU-SERIAL-PLACEHOLDER",
+    "MotherboardSerial": "MB-SERIAL-PLACEHOLDER",
+    "GpuSerial": "GPU-SERIAL-PLACEHOLDER",
+    "CpuUsage": "25%",
+    "RamUsage": "4096MB"
+  },
+  {
+    "Timestamp": "2025-04-04T23:17:09.3433777+02:00",
+    "CpuSerial": "CPU-SERIAL-PLACEHOLDER",
+    "MotherboardSerial": "MB-SERIAL-PLACEHOLDER",
+    "GpuSerial": "GPU-SERIAL-PLACEHOLDER",
+    "CpuUsage": "25%",
+    "RamUsage": "4096MB"
+  },
+  {
+    "Timestamp": "2025-04-04T23:17:10.3537385+02:00",
+    "CpuSerial": "CPU-SERIAL-PLACEHOLDER",
+    "MotherboardSerial": "MB-SERIAL-PLACEHOLDER",
+    "GpuSerial": "GPU-SERIAL-PLACEHOLDER",
+    "CpuUsage": "25%",
+    "RamUsage": "4096MB"
+  },
+  {
+    "Timestamp": "2025-04-04T23:17:11.3483128+02:00",
+    "CpuSerial": "CPU-SERIAL-PLACEHOLDER",
+    "MotherboardSerial": "MB-SERIAL-PLACEHOLDER",
+    "GpuSerial": "GPU-SERIAL-PLACEHOLDER",
+    "CpuUsage": "25%",
+    "RamUsage": "4096MB"
+  },
+  {
+    "Timestamp": "2025-04-04T23:17:12.3452988+02:00",
+    "CpuSerial": "CPU-SERIAL-PLACEHOLDER",
+    "MotherboardSerial": "MB-SERIAL-PLACEHOLDER",
+    "GpuSerial": "GPU-SERIAL-PLACEHOLDER",
+    "CpuUsage": "25%",
+    "RamUsage": "4096MB"
+  },
+  {
+    "Timestamp": "2025-04-04T23:55:19.1523964+02:00",
+    "CpuSerial": "CPU-SERIAL-PLACEHOLDER",
+    "MotherboardSerial": "MB-SERIAL-PLACEHOLDER",
+    "GpuSerial": "GPU-SERIAL-PLACEHOLDER",
+    "CpuUsage": "25%",
+    "RamUsage": "4096MB"
+  },
+  {
+    "Timestamp": "2025-04-04T23:55:20.1523516+02:00",
+    "CpuSerial": "CPU-SERIAL-PLACEHOLDER",
+    "MotherboardSerial": "MB-SERIAL-PLACEHOLDER",
+    "GpuSerial": "GPU-SERIAL-PLACEHOLDER",
+    "CpuUsage": "25%",
+    "RamUsage": "4096MB"
+  },
+  {
+    "Timestamp": "2025-04-04T23:55:21.1504482+02:00",
+    "CpuSerial": "CPU-SERIAL-PLACEHOLDER",
+    "MotherboardSerial": "MB-SERIAL-PLACEHOLDER",
+    "GpuSerial": "GPU-SERIAL-PLACEHOLDER",
+    "CpuUsage": "25%",
+    "RamUsage": "4096MB"
+  },
+  {
+    "Timestamp": "2025-04-04T23:55:27.3980008+02:00",
+    "CpuSerial": "CPU-SERIAL-PLACEHOLDER",
+    "MotherboardSerial": "MB-SERIAL-PLACEHOLDER",
+    "GpuSerial": "GPU-SERIAL-PLACEHOLDER",
+    "CpuUsage": "25%",
+    "RamUsage": "4096MB"
+  },
+  {
+    "Timestamp": "2025-04-04T23:55:32.9001429+02:00",
+    "CpuSerial": "CPU-SERIAL-PLACEHOLDER",
+    "MotherboardSerial": "MB-SERIAL-PLACEHOLDER",
+    "GpuSerial": "GPU-SERIAL-PLACEHOLDER",
+    "CpuUsage": "25%",
+    "RamUsage": "4096MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:31.579562+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,3%",
+    "RamUsage": "14379,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:32.5908373+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "2,8%",
+    "RamUsage": "14378,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:33.585567+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14392,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:34.5794526+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,5%",
+    "RamUsage": "14392,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:35.5923458+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "1,2%",
+    "RamUsage": "14389,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:36.5884515+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14383,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:37.5875336+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14382,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:38.5816416+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14382,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:39.5911249+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "1,9%",
+    "RamUsage": "14382,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:40.5831919+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14382,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:41.5926328+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14383,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:42.5885245+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "3,0%",
+    "RamUsage": "14384,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:43.5825416+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,4%",
+    "RamUsage": "14382,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:44.5934692+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14383,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:45.5842032+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14390,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:46.5793511+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,4%",
+    "RamUsage": "14391,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:47.5922345+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "3,3%",
+    "RamUsage": "14390,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:48.5861025+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14391,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:49.583273+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14389,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:50.5793058+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14390,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:51.5910355+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14398,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:52.5864529+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14409,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:53.5820256+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,3%",
+    "RamUsage": "14393,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:54.5900072+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,5%",
+    "RamUsage": "14393,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:55.5843102+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "1,0%",
+    "RamUsage": "14393,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:56.5939866+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,3%",
+    "RamUsage": "14394,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:57.5873956+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,6%",
+    "RamUsage": "14394,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:58.5851587+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,7%",
+    "RamUsage": "14395,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:01:59.5809578+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,2%",
+    "RamUsage": "14395,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:02:00.5890186+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "2,1%",
+    "RamUsage": "14396,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:02:01.5812836+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14396,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:02:02.5939572+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14388,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:02:03.5866982+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14387,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:02:04.5791723+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "2,2%",
+    "RamUsage": "14402,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:02:05.5931024+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14403,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:02:06.5897461+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,6%",
+    "RamUsage": "14390,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:02:07.5842883+02:00",
+    "CpuSerial": "N/D",
+    "MotherboardSerial": "N/D",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,7%",
+    "RamUsage": "14388,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:05:26.2160092+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "N/D",
+    "CpuUsage": "2,3%",
+    "RamUsage": "14373,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:05:27.2140541+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14373,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:05:28.2220891+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14373,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:05:29.217931+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14378,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:05:30.2151741+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "N/D",
+    "CpuUsage": "1,5%",
+    "RamUsage": "14385,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:05:31.2129122+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14409,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:05:32.2201105+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "N/D",
+    "CpuUsage": "0,2%",
+    "RamUsage": "14508,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:08:28.4918343+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,4%",
+    "RamUsage": "14144,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:08:29.4843719+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14143,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:08:30.481513+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14142,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:08:31.4765732+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14148,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:08:32.4896309+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14142,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:08:33.4874116+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14143,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:08:34.4836368+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,2%",
+    "RamUsage": "14142,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:08:35.4781352+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14147,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:08:36.4862945+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14147,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:08:37.4875107+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,3%",
+    "RamUsage": "14148,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:08:38.4832498+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14147,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:08:39.4814819+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14151,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:08:40.4776517+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14155,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:09:52.9351434+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "2,4%",
+    "RamUsage": "14074,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:09:53.9317182+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "2,0%",
+    "RamUsage": "14074,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:09:54.9280732+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14077,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:09:55.9386685+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "2,0%",
+    "RamUsage": "14082,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:09:56.9335267+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14080,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:09:57.9294173+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,2%",
+    "RamUsage": "14081,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:09:58.937344+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14081,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:09:59.9350603+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14078,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:10:00.9332674+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,7%",
+    "RamUsage": "14071,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:10:01.9286324+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14063,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:10:02.9262798+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14059,0 MB libres"
+  },
+  {
+    "Timestamp": "2025-04-05T00:12:19.7008834+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "1,1%",
+    "RamUsage": "18317,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:12:20.6971211+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "1,8%",
+    "RamUsage": "18315,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:12:21.694046+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "2,5%",
+    "RamUsage": "18307,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:12:22.7065457+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,0%",
+    "RamUsage": "18303,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:12:23.7034244+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,1%",
+    "RamUsage": "18290,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:12:24.6982715+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,0%",
+    "RamUsage": "18288,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:12:25.6939581+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,0%",
+    "RamUsage": "18287,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:12:26.7039909+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,0%",
+    "RamUsage": "18287,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:12:27.6988452+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,4%",
+    "RamUsage": "18291,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:12:28.6968761+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "1,6%",
+    "RamUsage": "18288,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:12:29.7060104+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,1%",
+    "RamUsage": "18289,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:12:30.7039956+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,9%",
+    "RamUsage": "18289,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:12:31.6949484+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,0%",
+    "RamUsage": "18285,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:12:32.6922461+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "Virtual Desktop Monitor - ROOT\\DISPLAY\\0000",
+    "CpuUsage": "0,1%",
+    "RamUsage": "18285,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:15:32.5420203+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,0%",
+    "RamUsage": "17856,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:15:33.5501306+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,0%",
+    "RamUsage": "17852,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:15:34.5472707+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,0%",
+    "RamUsage": "17853,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:15:35.5461113+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,0%",
+    "RamUsage": "17853,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:15:36.5401005+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,0%",
+    "RamUsage": "17756,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:15:37.5482106+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,0%",
+    "RamUsage": "17759,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:15:38.5383945+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,0%",
+    "RamUsage": "17759,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:15:39.5481093+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,0%",
+    "RamUsage": "17757,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:15:40.5425502+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,0%",
+    "RamUsage": "17757,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:15:41.53929+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,0%",
+    "RamUsage": "17750,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:15:42.5492489+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,0%",
+    "RamUsage": "17751,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T00:15:43.5471826+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,0%",
+    "RamUsage": "17751,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T01:48:25.7874035+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,0%",
+    "RamUsage": "17146,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T01:48:26.7820395+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "3,6%",
+    "RamUsage": "17147,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T01:48:27.7919964+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "1,2%",
+    "RamUsage": "17147,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T01:48:28.7871436+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,0%",
+    "RamUsage": "17147,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T01:48:29.786392+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,0%",
+    "RamUsage": "17138,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T01:48:30.794095+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "1,2%",
+    "RamUsage": "17139,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T01:48:31.7913315+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,4%",
+    "RamUsage": "17052,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T01:48:32.790925+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,0%",
+    "RamUsage": "17050,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T11:28:04.4425275+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "2,9%",
+    "RamUsage": "14497,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T11:28:05.4389984+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "2,8%",
+    "RamUsage": "14508,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T11:28:06.4363762+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "4,4%",
+    "RamUsage": "14514,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T11:28:07.4335023+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,1%",
+    "RamUsage": "14503,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T11:28:08.4459958+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14504,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T11:31:10.6719921+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,5%",
+    "RamUsage": "14605,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T11:31:11.6676112+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "1,0%",
+    "RamUsage": "14609,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T11:31:12.6650573+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14610,3 MB usadas de 32648,3 MB"
+  },
+  {
+    "Timestamp": "2025-04-05T11:31:13.6606176+02:00",
+    "CpuSerial": "178BFBFF00A20F12",
+    "MotherboardSerial": "220404038600017",
+    "GpuSerial": "AMD Radeon RX 6700 XT",
+    "CpuUsage": "0,0%",
+    "RamUsage": "14611,3 MB usadas de 32648,3 MB"
+  }
+]

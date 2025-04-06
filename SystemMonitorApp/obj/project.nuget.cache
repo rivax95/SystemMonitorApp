@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/7/8L6J9JaY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\RiderProjects\\SystemMonitorApp\\SystemMonitorApp\\SystemMonitorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.3\\microsoft.extensions.dependencyinjection.9.0.3.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.codedom\\9.0.3\\system.codedom.9.0.3.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.management\\9.0.3\\system.management.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
